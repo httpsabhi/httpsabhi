@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 Checkout my Portfolio [https://abhaysdevportfolio.netlify.app/](https://abhaysdevportfolio.netlify.app/)
+- 👨‍💻 Checkout my Portfolio [Abhay's Portfolio](https://abhaysdevportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://steptowardscoding.blogspot.com/](https://steptowardscoding.blogspot.com/)
 
