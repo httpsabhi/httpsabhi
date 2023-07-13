@@ -1,4 +1,4 @@
-![logo](https://github.com/httpsabhi/httpsabhi/blob/main/Github%20Banner.png)
+<center>![logo](https://github.com/httpsabhi/httpsabhi/blob/main/Github%20Banner.png)</center>
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
 
