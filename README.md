@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abhaykumar714371@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U-WTjjW2O7p9Ub5ey8AzF0KCRegmpdDv/view?usp=drive_link](https://drive.google.com/file/d/1U-WTjjW2O7p9Ub5ey8AzF0KCRegmpdDv/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_XPl7hlma8geElGX6e7du6QGUjZPO1G9/view?usp=drive_link)
 
 - ⚡ Fun fact **Jolly Nature 😅**
 
